@@ -1,0 +1,67 @@
+h1 {
+	color: purple;
+	text-align: center;
+}
+
+h2 {
+	color: cadetblue;
+}
+
+
+body {
+
+	background-color: beige;
+
+}
+
+p.bigwords{
+	font-size: 30px;
+}
+
+
+div {
+
+	border: 2px solid black;
+	background-color: lightblue;
+	text-align: center;
+	padding-top: 50px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 80px;
+}
+
+table, th, td {
+	border: 1px solid black;
+	width: 50%;
+}
+
+
+ol.roman {
+	list-style-type: upper-roman;
+}
+
+
+ol.alpha {
+	list-style-type: lower-alpha;
+}
+
+
+p.dotted {
+	border-style: dotted;
+}
+
+p.dashed {
+	border-style: dashed;
+}
+
+p.solid {
+	border-style: solid;
+}
+
+p.mixed {
+	border-style: mixed;
+}
+
+p.groove {
+	border-style: groove;
+}
